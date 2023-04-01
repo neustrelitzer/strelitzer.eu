@@ -8,8 +8,27 @@
     <meta name="robots" content="noindex, nofollow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-      body { color: white; background: black; }
-      img, audio, video { max-width: 100% }
+      body { 
+        color: white;
+        background: black;
+      }
+      audio, video { max-width: 100% }
+      img {
+        width: 100%;
+        height: auto;
+      }
+      @media (min-width: 25em) {
+        img {
+          width: 50%;
+          float: right;
+          margin: 0 0 1em 1em;
+        }
+      }
+      @media (min-width: 50em) {
+        img {
+          width: 25%;
+        }
+      }
     </style>
     <title>strelitzer.eu</title>
   </head>
@@ -26,7 +45,7 @@
       </ul>
     </nav>
     <main>
-      <!-- p><img src="./Strelitzer.png" alt="Strelitzer’s Avatar © 2010 Jarmu Robert Sahari (jrs77)" height="700" width="700"></p -->
+      <p><img src="./Strelitzer.png" height="700" width="700" alt="Strelitzer’s Avatar © 2010 Jarmu Robert Sahari (jrs77)"></p>
       <h1>Strelitzer’s Home</h1>
       <p>Vertrauen Sie mir – <span style="color: yellow; background: transparent">ich weiß, was ich tue!</span></p>
     </main>

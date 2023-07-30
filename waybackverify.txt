@@ -1,11 +1,3 @@
-Hi, I am the owner of the domain name and website "strelitzer.eu".
-I would like to have some archives of this site removed from the wayback machine.
-
-URL/URL Path to exclude: strelitzer.eu (and all subdomains)
-Time period of domain ownership: 2023-01-04 to Present.
-Time period to exclude: 2023-01-04 to 2023-08-01.
-
-A text file containing an exact copy of what is written in this email should be available at https://strelitzer.eu/waybackverify.txt
-
-Yours sincerely,
-Strelitzer
+URL/URL path to exclude: strelitzer.eu (and all subdomains)
+time period of domain ownership: 2023-01-04 to present
+time period to exclude: 2023-01-04 to future
